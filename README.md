@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatiharslanedu
 - 👀 I’m interested in computer programming and solve problems.
-- 🌱 I’m currently learning python, cpp, angular
+- 🌱 I’m currently learning python, cpp, c
 - 💞️ I’m looking to collaborate on teams
 - 📫 How to reach me fatiharslanedu@gmail.com
 
